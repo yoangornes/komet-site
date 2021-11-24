@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: ethnocentric;
+  src: url(assets/fonts/ethnocentric/ethnocentric\ rg.ttf) format("opentype");
+}

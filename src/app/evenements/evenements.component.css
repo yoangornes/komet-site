@@ -1,0 +1,40 @@
+.page{
+  height: 100%;
+  width: 100vw;
+  color: white;
+}
+
+.pad{
+  padding: 25px;
+}
+
+.evts-container{
+  width: 98vw;
+  height: 35vh;
+  overflow: hidden;
+}
+
+.evts-list{
+  height: 100%;
+  width: 100%;
+  overflow-x: scroll;
+  padding-bottom: 17px;
+  z-index: 5;
+}
+
+.evts{
+  width: fit-content;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.evt{
+  height: 30vh;
+  width: 30vw !important;
+  margin-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+
+
